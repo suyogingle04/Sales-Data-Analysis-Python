@@ -1,2 +1,15 @@
-# Sales-Data-Analysis-Python
-Performed sales data analysis using Python. Cleaned and processed raw data, conducted EDA to identify trends, and visualized insights using Matplotlib and Seaborn. Analyzed top products, regional sales, and monthly performance to support data-driven business decisions.
+# Sales Data Analysis using Python
+
+## Objective
+Analyze sales dataset to extract business insights.
+
+## Tools Used
+Python, Pandas, Matplotlib, Seaborn
+
+## Key Insights
+- Identified top-selling products
+- Found highest revenue regions
+- Analyzed monthly sales trends
+
+## Conclusion
+This project helps in understanding customer behavior and improving business decisions.
